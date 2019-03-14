@@ -1,5 +1,4 @@
 language: python
 python:
 - "3.5"
-test:
-	python3 -m unittest
+script:	python3 -m unittest
